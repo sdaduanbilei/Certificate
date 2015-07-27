@@ -1,5 +1,8 @@
 ###swift 开发 OS X 程序 （storyboards）
 
+1. 网络请求通过桥接方法使用了 AFNetWorking
+2. 涉及到验证pfx 文件的准确性 使用了 chilkat
+3. 通过 命令行 完成对pfx 文件的 添加 和 删除 
 
 
  直接上图了
@@ -44,7 +47,7 @@ let installingViewController = self.storyboard?.instantiateControllerWithIdentif
 
 
 
-##### 开发过程中遇到的问题：
+###  开发过程中遇到的问题：
 
 1. NSTextField 的取值和复制
 
