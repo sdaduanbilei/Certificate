@@ -23,11 +23,11 @@
 ![](images/pic_4.png)
 
 
-编辑好界面后同样 添加  对于的类 （<font color="red">注意去掉 XIB file  的√</font> ）
+编辑好界面后同样 添加  对应的类 （<font color="red">注意去掉 XIB file  的√</font> ）
 
 ![](images/pic_5.png)
 
-同样通过拖动版定控件 和 事件 
+同样通过拖动绑定控件 和 事件 
 
 
 ![](images/pic_6.png)
